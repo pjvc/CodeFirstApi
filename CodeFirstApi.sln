@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstApi", "CodeFirstApi\CodeFirstApi.csproj", "{497EEB83-931C-4A3B-8A0D-C0A61D3F78CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{BF3D0E06-51C1-4E58-9113-DD41594FDA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497EEB83-931C-4A3B-8A0D-C0A61D3F78CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497EEB83-931C-4A3B-8A0D-C0A61D3F78CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497EEB83-931C-4A3B-8A0D-C0A61D3F78CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497EEB83-931C-4A3B-8A0D-C0A61D3F78CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3D0E06-51C1-4E58-9113-DD41594FDA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3D0E06-51C1-4E58-9113-DD41594FDA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3D0E06-51C1-4E58-9113-DD41594FDA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3D0E06-51C1-4E58-9113-DD41594FDA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34333E14-EA12-4682-8CCC-20ACBB19CC29}
+	EndGlobalSection
+EndGlobal
